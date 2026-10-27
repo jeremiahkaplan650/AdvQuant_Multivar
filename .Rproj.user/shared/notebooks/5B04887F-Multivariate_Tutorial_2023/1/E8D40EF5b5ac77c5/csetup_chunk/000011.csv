@@ -1,0 +1,7 @@
+"0","library(palmerpenguins)"
+"0","library(corrr)"
+"0","library(GGally)"
+"0","library(recipes)"
+"0","library(tidytext)"
+"0","library(tidyverse)"
+"0","theme_set(theme_minimal())"

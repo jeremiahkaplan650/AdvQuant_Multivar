@@ -1,0 +1,6 @@
+"0","Quad_mds_index <- bind_cols(Quads_Reland_index, Quad_nmds$points)"
+"0",""
+"0",""
+"0","ggplot(Quad_mds_index) + "
+"0","  aes(x = MDS1, y = MDS2, color = Treatment) + "
+"0","  geom_point()"
