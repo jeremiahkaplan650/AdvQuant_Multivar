@@ -1,0 +1,3 @@
+"0","RestorationsCSS <- Restorations %>%"
+"0","  filter(habitat == ""CSS"")"
+"0","numericonly3 <- select(RestorationsCSS, -Plot.key, -(Site:rphase))"

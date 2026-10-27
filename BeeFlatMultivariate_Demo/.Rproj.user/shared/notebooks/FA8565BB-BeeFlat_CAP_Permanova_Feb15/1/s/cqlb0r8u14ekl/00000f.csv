@@ -1,0 +1,4 @@
+"0","d2 <- d"
+"0","Beejoin <- d2 %>%"
+"0","  select(-NoNatVeg) %>% "
+"0","  left_join(plot, by = ""Plot.key"")"

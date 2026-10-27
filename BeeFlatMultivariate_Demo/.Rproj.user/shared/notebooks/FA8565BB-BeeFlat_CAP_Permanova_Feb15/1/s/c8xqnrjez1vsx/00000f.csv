@@ -1,0 +1,4 @@
+"0","# Read in BeeFlat data"
+"0","d <-read.csv(""Clean_Files_0816/CleanBeeFlat08062021_wide.csv"")"
+"0","plot <-read.csv(""Clean_Files_0816/BeeFlat_plotmetadata.csv"")"
+"0","Beespeciesin <- read.csv(""Clean_Files_0816/BeeFlat_SpeciesInfo.csv"")"
